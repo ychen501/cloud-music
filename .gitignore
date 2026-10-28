@@ -1,0 +1,18 @@
+# macOS
+.DS_Store
+
+# IDE
+.idea/
+*.iml
+.vscode/
+
+# Gradle / build output
+.gradle/
+build/
+backend/bin/
+
+# Local config
+local.properties
+
+# Audio files (copyrighted, not distributed)
+backend/src/main/resources/static/songs/*.mp3
